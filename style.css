@@ -39,6 +39,10 @@ button {
   gap: 12px;
 }
 
+button:hover {
+  border: 1px solid #8b5c;
+}
+
 #form-habits {
   display: flex;
   padding: 182px 48px 48px;
